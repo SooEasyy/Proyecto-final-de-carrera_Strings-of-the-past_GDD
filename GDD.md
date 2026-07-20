@@ -2,7 +2,7 @@
 
 # Strings of the Past
 <p align="center">
-  <img src="images/banner.jpg" alt="Strings of the Past Banner" width="100%">
+  <img src="imagenes/banner.jpg" alt="Strings of the Past Banner" width="100%">
 </p>
 
 > **Versión:** 1.0  
@@ -247,7 +247,7 @@ El diseño de personajes buscará transmitir personalidad mediante animaciones f
 ## Protagonista
 
 <p align="center">
-    <img src="images/Personaje Principal.jpg" width="500">
+    <img src="imagenes/personaje_principal.jpg" width="500">
 </p>
 
 <p align="center">
@@ -259,7 +259,7 @@ El diseño de personajes buscará transmitir personalidad mediante animaciones f
 ## Bosque Encantado
 
 <p align="center">
-    <img src="images/Bosque encantado.jpg" width="700">
+    <img src="imagenes/bosque_encantado.jpg" width="700">
 </p>
 
 <p align="center">
@@ -271,7 +271,7 @@ El diseño de personajes buscará transmitir personalidad mediante animaciones f
 ## Ruinas Antiguas
 
 <p align="center">
-    <img src="images/ruinas_antiguas.jpg" width="700">
+    <img src="imagenes/ruinas_antiguas.jpg" width="700">
 </p>
 
 <p align="center">
@@ -283,7 +283,7 @@ El diseño de personajes buscará transmitir personalidad mediante animaciones f
 ## Montañas Heladas
 
 <p align="center">
-    <img src="images/montañas_heladas.jpg" width="700">
+    <img src="imagenes/montañas_heladas.jpg" width="700">
 </p>
 
 <p align="center">
@@ -295,7 +295,7 @@ El diseño de personajes buscará transmitir personalidad mediante animaciones f
 ## Castillo Oscuro
 
 <p align="center">
-    <img src="images/castillo_oscuro.jpg" width="700">
+    <img src="imagenes/castillo_oscuro.jpg" width="700">
 </p>
 
 <p align="center">
@@ -307,7 +307,7 @@ El diseño de personajes buscará transmitir personalidad mediante animaciones f
 ## Enemigos
 
 <p align="center">
-    <img src="images/enemigos.jpg" width="700">
+    <img src="imagenes/enemigos.jpg" width="700">
 </p>
 
 <p align="center">
@@ -319,7 +319,7 @@ El diseño de personajes buscará transmitir personalidad mediante animaciones f
 ## Rey Aldren
 
 <p align="center">
-    <img src="images/rey_aldren.jpg" width="500">
+    <img src="imagenes/rey_aldren.jpg" width="500">
 </p>
 
 <p align="center">
@@ -331,7 +331,7 @@ El diseño de personajes buscará transmitir personalidad mediante animaciones f
 ## Princesas
 
 <p align="center">
-    <img src="images/princesas.jpg" width="700">
+    <img src="imagenes/princesas.jpg" width="700">
 </p>
 
 <p align="center">
