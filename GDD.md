@@ -7,7 +7,7 @@
 
 > **Versión:** 1.0  
 > **Autor:** Federico Javier Alfaro  
-> **Materia:** Diseño de Videojuegos II  
+> **Materia:** Proyecto Final
 > **Carrera:** Tecnicatura en Diseño y Programación de Videojuegos  
 > **Universidad Nacional del Litoral**
 
