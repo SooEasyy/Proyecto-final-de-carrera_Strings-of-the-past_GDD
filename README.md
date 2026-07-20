@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿# Strings of the Past
+# Strings of the Past
 
 ![Banner del juego](Images/banner.jpg)
 
