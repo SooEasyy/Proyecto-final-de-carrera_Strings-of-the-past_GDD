@@ -5,10 +5,14 @@
   <img src="Images/banner.jpg" alt="Strings of the Past Banner" width="100%">
 </p>
 
-> **Versión:** 1.0  
-> **Autor:** Federico Javier Alfaro  
+> **Versión:** 1.0
+> 
+> **Autor:** Federico Javier Alfaro
+> 
 > **Materia:** Proyecto Final
-> **Carrera:** Tecnicatura en Diseño y Programación de Videojuegos  
+> 
+> **Carrera:** Tecnicatura en Diseño y Programación de Videojuegos
+> 
 > **Universidad Nacional del Litoral**
 
 ---
