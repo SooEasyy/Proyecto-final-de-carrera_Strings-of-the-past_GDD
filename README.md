@@ -51,7 +51,9 @@ Este repositorio contiene el Game Design Document de Strings of the past.
 
 Contenido del repositorio
 GDD.pdf: Documento principal del Game Design Document.
+
 imagenes: Carpeta con imágenes conceptuales y bocetos utilizados en el GDD.
+
 Autor
 Alfaro Federico
 
