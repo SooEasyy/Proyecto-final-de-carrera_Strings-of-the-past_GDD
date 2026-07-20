@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 ﻿# Strings of the Past
 
-![Banner del juego](images/banner.jpg)
+![Banner del juego](Images/banner.jpg)
 
 > *Videojuego de acción, aventura y plataformas 2D desarrollado en Unity.*
 
