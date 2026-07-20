@@ -45,7 +45,7 @@ El progreso estará basado en la exploración, el combate y la mejora constante 
 
 ## 1.2 Audiencia Objetivo
 
-El juego está dirigido principalmente a jugadores de entre **12 y 35 años** que disfrutan de videojuegos de acción y exploración con un alto componente de progresión del personaje.
+El juego está dirigido principalmente a jugadores de 12 años en adelante que disfrutan de videojuegos de acción y exploración con un alto componente de progresión del personaje.
 
 Está pensado para quienes buscan una experiencia desafiante, donde la exploración sea recompensada y el dominio de las mecánicas tenga un papel importante. Los jugadores interesados en descubrir secretos, mejorar equipamiento y enfrentar enemigos con distintos patrones de comportamiento encontrarán una experiencia atractiva y variada.
 
